@@ -1,0 +1,41 @@
+React Native 
+
+	Developed By Facebook in 2015 for mobile development.
+	Similar Apps created by React Native eg:Facebook,Instagram,LinkedIN.
+
+
+Latest Version: 0.73 
+
+
+Why do we go for React Native not other?
+
+1.Cross-Platform:
+	React Native is used to develop both Ios and Android Application with Code efficiency and reduces development and costs compared to building separate natice apps for each platform.
+
+2.Code Reusability:
+	As We Know that the React is main used for reusable of code and reduces the time for development. That like the React Native is also the used for code reusable and time reduces for development.
+
+3. Native Features:
+	React Native uses better component structural language for user preference.That means it uses UI elements rather than web views,resulting in a smoother and more responsive user experience.
+
+4.Larger Developement:
+	React Native is a larger and active development community.React Native supports all the resources, libraries, and other third party features to develop the code more efficient.
+
+5.Hot Reloading:
+	It has the real time application development to make changes in the code it response back and give faster developement process to the developers.
+
+6.Support and Confidence:
+	Since the React Native is developed by the facebook so that the long stability and the updates that are given for the developers confidence and more efficient easy to code.
+
+7.Javascript:
+	React Native Supports Javascript programming language that can understand the developers easily. And if you know the javascript then the react native development may gets easy to learn.
+
+=================================================================
+_________________________________________________________________
+
+What is View?
+		
+
+
+
+
