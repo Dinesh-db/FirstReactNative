@@ -1,20 +1,24 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View,ScrollView,Image,TextInput } from 'react-native';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>App is running</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+      <ScrollView >
+        <Text style={{fontSize:50}}>Dinesh</Text>
+        <View style={{alignItems:'center',}}>
+          <Text >Some More</Text> 
+          <Image 
+            source={{uri:'https://reactnative.dev/docs/assets/p_cat2.png',}}
+            style={{height:500,width:500,}}
+          />
+        </View>
+        <TextInput style={{height:40,borderWidth:3,borderColor:'grey'}}/>
+        
+    </ScrollView>
+      
+    </>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
